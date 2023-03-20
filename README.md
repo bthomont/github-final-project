@@ -5,4 +5,4 @@ Input:
    t, time period in years
    r, annual rate of interest
 Output
-   simple interest = p*t*r
+   simple interest = ![CodeCogsEqn](https://user-images.githubusercontent.com/74006742/226387320-911035a7-0e05-40c7-9942-ecf20eb898c5.gif)
