@@ -1,5 +1,14 @@
 # A calculator that calculates simple interest
 
+<p align="justify">
+   This is a simple interest calculator that calculates the simple interest given principal amount, time period in years, and annual rate of interest.
+</p>
+
+## Usage 
+<p align="justify">
+To use the calculator, simply enter the values for the principal amount, time period, and annual rate of interest into the input fields. The calculator will then calculate the simple interest and display the result.
+</p>
+
 <strong>Input:</strong><br>
    p = principal amount<br>
    t = time period in years<br>
